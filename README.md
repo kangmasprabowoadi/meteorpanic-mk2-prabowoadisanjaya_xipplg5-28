@@ -6,12 +6,12 @@ Game ini menantang pemain untuk mengendalikan pesawat roket di luar angkasa dan 
 
 ---
 
-## 🚀 Anggota Pengembang
+## 🚀 Profil Developer
 * **Nama:** Prabowo Adi Sanjaya
 * **Kelas:** XI PPLG 5
 * **Jurusan:** Pengembangan Perangkat Lunak dan Gim (PPLG)
 * **Institusi:** SMK Telkom Purwokerto
-* **Guru Pengampu:** Bu Firda
+* **Guru Pengampu:** Bu Firda S.Kom
 
 ---
 
